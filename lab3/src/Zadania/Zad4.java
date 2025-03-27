@@ -4,7 +4,7 @@ public class Zad4 {
     public void sumPosNumbers(){
         InfGet infGet = new InfGet();
         Random rand = new Random();
-        int sumEvenNumb = 0;
+        int  sumEvenNumb = 0;
         System.out.println("Podaj liczbę większą od 0: ");
 
         int arrayLength = infGet.LiczbyInt(); // liczba n
